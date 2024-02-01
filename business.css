@@ -53,17 +53,17 @@ li {
 }
 
 .links {
-  width: 199vh; 
+  width: 198vh; 
   height: 40vh;
   float: left;
   margin-top: 50px;
   float: left;
-  max-width: 100%;
+  max-width: 98%;
   
 }
 
 .horse {
-   width: 33vh;
+   width: 30vh;
    height: 20vh;
 
 }
