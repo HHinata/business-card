@@ -62,15 +62,11 @@ li {
   
 }
 
-.horse {
-   width: 30vh;
-   height: 20vh;
-
-}
 
 iframe {
   border-radius: 20%;
   border: 0;
+  padding: 10px;
 }
 
 
